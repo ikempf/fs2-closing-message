@@ -1,0 +1,1 @@
+Reliably send last/closing messages through a queue while maintaining resource safety through cascading closure
